@@ -8,7 +8,7 @@ Each essay is written in Markdown, version-controlled, and intended as both a pe
 
 ## Published
 
-- **[Elegant Design: Dispatch Tables in C](dispatch-tables-in-c.md)**  
+- **[Elegant Design: Dispatch Tables in C](ed-dispatch-tables.md)**  
   Function pointers, runtime polymorphism, and manual vtables in C.
 
 ---
