@@ -118,8 +118,8 @@ void init_graphics_api(Graphics_Backend backend, Graphics_Api* api) {
 	if (!api) return;    // remember to check for errors! (even in example code)	
 	switch (backend) {
 		case GL_BACKEND: {
-				api->draw_shape2D = _gl_draw_shape2D;
-				api->fill_shape2D = _gl_fill_shape2D;
+			api->draw_shape2D = _gl_draw_shape2D;
+			api->fill_shape2D = _gl_fill_shape2D;
 		} break;
 		// ... other cases here
 		case NO_BACKEND:    // fall-through to default
