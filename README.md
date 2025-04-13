@@ -26,8 +26,8 @@ r3shape is an organization focused on building foundational tools for developers
 Current projects include:
 
 - **r3make** — a lightweight, JSON-configured CLI build tool for C (written in Python, v2025.1.8)
-- **r3engine** — a graphics engine prototype targeting OpenGL with DirectX, and Vulkan support planned
-- **Libx** — a modular runtime library offering APIs for memory, math, generics, file I/O, ECS, data structures, and more
+- **koncept** — a graphics engine targeting OpenGL with DirectX, and Vulkan support planned
+- **corex** — a modular runtime library offering APIs for memory, math, generics, file I/O, ECS, data structures, and more
 
 The essays in this repo often trace the research, experiments, and ideas that inform these tools.
 
