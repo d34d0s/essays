@@ -10,12 +10,14 @@ Each essay is written in Markdown, version-controlled, and intended as both a pe
 
 - **[Elegant Design: Dispatch Tables in C](ed-dispatch-tables.md)**  
   Function pointers, runtime polymorphism, and manual vtables in C.
+- **[Elegant Design: Tagged Unions In C](ed-tagged-unions.md)**  
+  Variable data, dynamic typing and  type safety.
 
 ---
 
 ## Upcoming
-- **Elegant Design: Tagged Unions** — type safety and polymorphism in C.
 - **The Memory Management Mystery: Demystified** — alignment, padding, and custom allocators.
+- **Elegant Design: Bitfields In C** — data compression and program state
 - **Tiny Cubes** — voxel meshing and custom vertex data packing.
 ---
 
