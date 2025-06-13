@@ -17,8 +17,8 @@ Each essay is written in Markdown, version-controlled, and intended as both a pe
 ---
 
 ## Upcoming
-- **Frontend: A Religion Of Ignorance
-- **Building Tools, Not Bottlenecks: A look at r3make
+- **Frontend: A Religion Of Ignorance**
+- **Building Tools, Not Bottlenecks: A look at r3make**
 
 ## About r3shape
 
